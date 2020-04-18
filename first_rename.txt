@@ -1,0 +1,6 @@
+this is version 1 of the project
+i want thid to go in to commit
+changed by nizam
+it is another changed to skiping stage
+ddf
+last master change
